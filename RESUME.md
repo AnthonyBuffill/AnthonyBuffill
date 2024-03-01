@@ -16,12 +16,22 @@ Highly motivated and experienced professional with over 20 years of experience i
   - Express.js
   - Database Design
   - Markdown
+  - Postman
+  - Insomnia
+  - Graphql
 
 ## EDUCATION
 University of Texas, Austin  
 Full Stack Web Development Certificate Program | 2024
 
 ## EXPERIENCE
+
+### Day Trader – TastyWorks Platform (2022-2024)
+- Independently traded stock options as a day trader on the TastyWorks platform.
+- Analyzed charts and market patterns to make informed trading decisions.
+- Conducted extensive research on companies' financials to assess potential investment opportunities.
+- Applied critical thinking and decision-making skills in a fast-paced trading environment.
+  
 ### Senior Manager, Animal Care – Bronx Zoo, New York (2019-2022)
 - Managed and oversaw all aspects of animal care and husbandry, including training, enrichment, and health monitoring.
 - Developed and implemented training programs for new employees and interns.
