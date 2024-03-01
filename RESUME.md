@@ -1,5 +1,5 @@
 # ANTHONY BUFFILL
-Buda, Texas | (718) 288-3170 | ABuffill@gmail.com
+Buda, Texas | (718) 288-3170 | ABuffill@Outlook.com
 
 ## SUMMARY
 Highly motivated and experienced professional with over 20 years of experience in animal husbandry and management, including training interns and new employees. Proven ability to manage multiple tasks, lead teams, and provide excellent communication with staff and management. Proficient in Microsoft Word, Excel, and PowerPoint. Recent graduate of the Full Stack Web Development Certificate Program from the University of Texas, Austin, with expertise in MERN stack technologies. Seeking a challenging position where my skills and experience can be utilized in new ways.
